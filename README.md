@@ -26,7 +26,7 @@
 + SQL
 + Cloud, e.g. AWS, Azure, Netlify
 
-<hr />
+
 
 ### Experience
 
@@ -34,15 +34,21 @@
 *September 2019 - Present*
 <p>Leading development on DNA, Telstra Health's design system to help teams build better clinically safe software faster. DNA is used in multiple solutions including Australia's first electronic prescribing software.</p>
 
+<hr />
+
 #### Xplor - Senior Software Engineer
 *May 2018 - August 2019*
 <p>Led front end development on number of core products, including Playground and Home, internal tools, and documentation sites. Introduced modern front end development practices such as Functional Programming; Single Page Apps; Code splitting; React (hooks) and; GraphQL.</p>
 <p>Led design system engineering work on creating consistently great user experience across products and platforms.</p>
 
+<hr />
+
 #### Easygo - Senior Software Engineer
 *June 2017 - April 2018*
 
 TODO
+
+<hr />
 
 #### Common Code - Software Engineer / Team Lead
 *January 2015 - July 2017*
@@ -56,10 +62,14 @@ TODO
 
 + Mentorloop – I helped migrate an existing Meteor application to component-driven React application.
 
+<hr />
+
 #### Datamaxx Solutions - Software Engineer
 *June 2014 - December 2014*
 
 <p>Team member working on a SPA using Angular (v1) and Python (Django).</p>
+
+<hr />
 
 #### RMIT University - Software Engineer (Contractor)
 *January 2012 - July 2013*
