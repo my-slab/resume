@@ -35,9 +35,14 @@
 <p>Led front end development on number of core products, including Playground and Home, internal tools, and documentation sites. Introduced modern front end development practices such as Functional Programming; Single Page Apps; Code splitting; React (hooks) and; GraphQL.</p>
 <p>Led design system engineering work on creating consistently great user experience across products and platforms.</p>
 
-#### Easygo - *Senior Software Engineer (June 2017 - April 2018)*
+#### Easygo - Senior Software Engineer
+*June 2017 - April 2018*
 
-#### Common Code - *Software Engineer / Team Lead (January 2015 - July 2017)*
+TODO
+
+#### Common Code - Software Engineer / Team Lead
+*January 2015 - July 2017*
+
 <p>I consulted on a number of projects while working at Common Code. Some highlights from projects I led included:</p>
 
 + PLATTAR (AR/VR) – I led a team rebuilding their legacy Three.js scene building SDK to a declarative version with A-Frame and React.
@@ -47,7 +52,9 @@
 
 + Mentorloop – I helped migrate an existing Meteor application to component-driven React application.
 
-#### Datamaxx Solutions - *Software Engineer (June 2014 - Dec 2014)*
+#### Datamaxx Solutions - Software Engineer
+*June 2014 - December 2014*
+
 <p>Team member working on a SPA using Angular (v1) and Python (Django).</p>
 
 #### RMIT University - Software Engineer
