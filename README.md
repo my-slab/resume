@@ -2,6 +2,8 @@
   Mitch Stewart
   <br />
   mitch.stewart@hey.com
+  <br />
+  <a href="https://www.linkedin.com/in/mitchell-stewart-79119a160/">LinkedIn</a>
 </p>
 
 ### Technical
@@ -23,6 +25,8 @@
 + GraphQL
 + SQL
 + Cloud, e.g. AWS, Azure, Netlify
+
+<hr />
 
 ### Experience
 
@@ -57,14 +61,15 @@ TODO
 
 <p>Team member working on a SPA using Angular (v1) and Python (Django).</p>
 
-#### RMIT University - Software Engineer
+#### RMIT University - Software Engineer (Contractor)
 *January 2012 - July 2013*
 
-##### Facebook use in Affective Disorders (FAD) Study (Contractor)
+##### Facebook use in Affective Disorders (FAD) Study 
 
 Worked with Beyond Blue, MAPrc and the School of Intelligent Systems at RMIT to create a platform for subjects to self-report their mood on a daily basis. This integrated with Facebook and compared changes in social media use by an individual before and during a bipolar relapse. This was completed using Python (Flask).
 
-##### Get Me To Class (Contractor)
+##### Get Me To Class
 
 Worked with The Mornington Peninsula Shire and the School of Computer Science and IT at RMIT to build a Python (Django) REST API to support two mobile applications. This helped students travel to tertiary institutions, encouraged them to consider public transport options and arrange formal car-pooling. A student's individual timetable synced with the journey planner to calculate departure time and public transport routes. A further option allowed students, wanting to combine public transport and car-pooling, to link via Facebook and Twitter.
 
+<hr />
