@@ -16,7 +16,7 @@
 + React
 + HTML
 + CSS-in-JS
-+ Build tools, e.g. Webpack
++ Build tools, e.g. Webpack, Rollup
 + Package management, e.g. npm, Yarn (workspaces), Lerna
 + Gatsby
 + D3
